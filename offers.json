@@ -42,19 +42,6 @@
         {
             "page": 2,
             "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-2,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
-            "hotel": "Seaden Sea Planet Resort & Spa",
-            "location": "Turcja / Riwiera Turecka / Kizilot",
-            "date": "09.09.2024- 16.09.2024",
-            "formated_date": "2024-09-09",
-            "price_per_person": "4467",
-            "lowest_price_per_person": "4467",
-            "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/seaden-sea-planet-resort-spa-teren-hotelu-basen-1484629295-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/kizilot/seaden-sea-planet-resort-spa-232583.html?-od-2024-09-09,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Zielona Góra, Gdańsk, Wrocław(+8)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Szczecin, Warszawa"
-        },
-        {
-            "page": 2,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-2,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
             "hotel": "Galeri Resort",
             "location": "Turcja / Riwiera Turecka / Okurcalar",
             "date": "28.08.2024- 04.09.2024",
@@ -77,6 +64,19 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/grecja/mitsis-summer-palace-basen-sport-i-rekreacja-792959801-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/grecja/kos/kardamena/mitsis-summer-palace-515429.html?-od-2024-09-10,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Warszawa, Katowice, Gdańsk(+3)Wrocław, Kraków, Poznań"
+        },
+        {
+            "page": 3,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Kirbiyik Resort (ex. Dinler)",
+            "location": "Turcja / Riwiera Turecka / Mahmutlar",
+            "date": "11.09.2024- 18.09.2024",
+            "formated_date": "2024-09-11",
+            "price_per_person": "2874",
+            "lowest_price_per_person": "2874",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/kirbiyik-resort-ex-dinler-obiekt-basen-787444919-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/mahmutlar/kirbiyik-resort-ex-dinler-591767.html?-od-2024-09-11,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Zielona Góra, Gdańsk, Wrocław(+8)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Szczecin, Warszawa"
         },
         {
             "page": 3,
