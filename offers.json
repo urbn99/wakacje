@@ -2,46 +2,7 @@
     "offers": [
         {
             "page": 2,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-2,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
-            "hotel": "Labranda Blue Bay Resort",
-            "location": "Grecja / Rodos / Kremasti",
-            "date": "06.09.2024- 13.09.2024",
-            "formated_date": "2024-09-06",
-            "price_per_person": "4220",
-            "lowest_price_per_person": "4220",
-            "image_url": "https://i.wakacje.pl/no-index/hotel/grecja/labranda-blue-bay-resort-teren-hotelu-basen-793582647-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/grecja/rodos/kremasti/labranda-blue-bay-resort-272946.html?-od-2024-09-06,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Gdańsk, Wrocław, Katowice(+3)Łódź, Poznań, Warszawa"
-        },
-        {
-            "page": 2,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-2,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
-            "hotel": "Seaden Sea Planet Resort & Spa",
-            "location": "Turcja / Riwiera Turecka / Kizilot",
-            "date": "06.09.2024- 13.09.2024",
-            "formated_date": "2024-09-06",
-            "price_per_person": "4436",
-            "lowest_price_per_person": "4436",
-            "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/seaden-sea-planet-resort-spa-teren-hotelu-basen-1484629295-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/kizilot/seaden-sea-planet-resort-spa-232583.html?-od-2024-09-06,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Zielona Góra, Gdańsk, Wrocław(+8)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Szczecin, Warszawa"
-        },
-        {
-            "page": 3,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
-            "hotel": "Mitsis Summer Palace",
-            "location": "Grecja / Kos / Kardamena",
-            "date": "10.09.2024- 17.09.2024",
-            "formated_date": "2024-09-10",
-            "price_per_person": "4984",
-            "lowest_price_per_person": "4984",
-            "image_url": "https://i.wakacje.pl/no-index/hotel/grecja/mitsis-summer-palace-basen-sport-i-rekreacja-792959801-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/grecja/kos/kardamena/mitsis-summer-palace-515429.html?-od-2024-09-10,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Poznań, Gdańsk, Warszawa(+3)Kraków, Wrocław, Katowice"
-        },
-        {
-            "page": 3,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-2,7-dni,do-4000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
             "hotel": "Kirbiyik Resort (ex. Dinler)",
             "location": "Turcja / Riwiera Turecka / Mahmutlar",
             "date": "11.09.2024- 18.09.2024",
@@ -53,21 +14,8 @@
             "airport": "Zielona Góra, Gdańsk, Wrocław(+8)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Szczecin, Warszawa"
         },
         {
-            "page": 3,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
-            "hotel": "Abora Buenaventura (ex IFA Buenaventura)",
-            "location": "Hiszpania / Gran Canaria / Playa Del Ingles",
-            "date": "17.09.2024- 25.09.2024",
-            "formated_date": "2024-09-17",
-            "price_per_person": "4151",
-            "lowest_price_per_person": "4151",
-            "image_url": "https://i.wakacje.pl/no-index/hotel/hiszpania/abora-buenaventura-ex-ifa-buenaventura-obiekt-basen-600276573-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/hiszpania/gran-canaria/playa-del-ingles/abora-buenaventura-ex-ifa-buenaventura-199799.html?-od-2024-09-17,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Poznań, Katowice, Warszawa"
-        },
-        {
-            "page": 3,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "page": 2,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-2,7-dni,do-4000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
             "hotel": "Amphoras Blu (ex. Otium Aloha)",
             "location": "Egipt / Sharm El Sheikh / Ras Um El Sid",
             "date": "31.08.2024- 07.09.2024",
@@ -79,8 +27,8 @@
             "airport": "Katowice, Warszawa"
         },
         {
-            "page": 4,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-5000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "page": 3,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-4000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
             "hotel": "Hedef Kleopatra Golden Sun",
             "location": "Turcja / Riwiera Turecka / Alanya",
             "date": "29.08.2024- 05.09.2024",
@@ -90,6 +38,71 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/hedef-kleopatra-golden-sun-obiekt-budynek-glowny-1611652790-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/alanya/hedef-kleopatra-golden-sun-832382.html?-od-2024-08-29,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Kraków, Katowice, Warszawa(+3)Wrocław, Poznań, Gdańsk"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-4000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Sharming Inn",
+            "location": "Egipt / Sharm El Sheikh",
+            "date": "31.08.2024- 07.09.2024",
+            "formated_date": "2024-08-31",
+            "price_per_person": "2022",
+            "lowest_price_per_person": "2022",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/sharming-inn-obiekt-teren-hotelu-basen-1007142837-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/sharm-el-sheikh/sharm-el-sheikh/sharming-inn-246321.html?-od-2024-08-31,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Katowice, Warszawa"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-4000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Palia Don Pedro",
+            "location": "Hiszpania / Teneryfa / Las Galletas",
+            "date": "12.09.2024- 20.09.2024",
+            "formated_date": "2024-09-12",
+            "price_per_person": "3201",
+            "lowest_price_per_person": "3201",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/hiszpania/palia-don-pedro-obiekt-basen-826426359-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/hiszpania/teneryfa/las-galletas/palia-don-pedro-258804.html?-od-2024-09-12,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Wrocław, Katowice, Poznań(+1)Warszawa"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-4000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Charmillion Garden Aqua Park (ex Sea Gardens)",
+            "location": "Egipt / Sharm El Sheikh / Nabq Bay",
+            "date": "10.09.2024- 17.09.2024",
+            "formated_date": "2024-09-10",
+            "price_per_person": "2934",
+            "lowest_price_per_person": "2934",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/charmillion-garden-aqua-park-ex-sea-gardens-aquapark-825810391-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/sharm-el-sheikh/nabq-bay/charmillion-garden-aqua-park-ex-sea-gardens-22914.html?-od-2024-09-10,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Katowice, Warszawa"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-4000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "St. Constantin",
+            "location": "Grecja / Kreta / Kato Gouves",
+            "date": "18.09.2024- 25.09.2024",
+            "formated_date": "2024-09-18",
+            "price_per_person": "3577",
+            "lowest_price_per_person": "3577",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/grecja/st-constantin-obiekt-teren-hotelu-basen-1256937261-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/grecja/kreta/kato-gouves/st-constantin-476668.html?-od-2024-09-18,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Poznań, Gdańsk, Warszawa, Łódź(+5)Kraków, Wrocław, Katowice, Lublin, Bydgoszcz"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-4000zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Regency Plaza Aqua Park Spa",
+            "location": "Egipt / Sharm El Sheikh",
+            "date": "31.08.2024- 07.09.2024",
+            "formated_date": "2024-08-31",
+            "price_per_person": "2489",
+            "lowest_price_per_person": "2489",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/regency-plaza-aqua-park-spa-basen-1703346923-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/sharm-el-sheikh/sharm-el-sheikh/regency-plaza-aqua-park-spa-276843.html?-od-2024-08-31,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Katowice, Warszawa"
         }
     ]
 }
