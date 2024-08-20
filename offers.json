@@ -12,7 +12,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/sharming-inn-obiekt-teren-hotelu-basen-1007142837-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/sharm-el-sheikh/sharm-el-sheikh/sharming-inn-246321.html?-od-2024-08-31,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Warszawa",
-            "likes": 731
+            "likes": 736,
+            "star_rating": "4"
         },
         {
             "page": 2,
@@ -26,7 +27,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/charmillion-garden-aqua-park-ex-sea-gardens-aquapark-825810391-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/sharm-el-sheikh/nabq-bay/charmillion-garden-aqua-park-ex-sea-gardens-22914.html?-od-2024-09-10,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Warszawa",
-            "likes": 440
+            "likes": 1158,
+            "star_rating": "5"
         },
         {
             "page": 2,
@@ -40,7 +42,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/regency-plaza-aqua-park-spa-basen-1703346923-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/sharm-el-sheikh/sharm-el-sheikh/regency-plaza-aqua-park-spa-276843.html?-od-2024-08-31,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Warszawa",
-            "likes": 108
+            "likes": 1413,
+            "star_rating": "5"
         },
         {
             "page": 2,
@@ -54,7 +57,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/sharm-grand-plaza-resort-obiekt-826034475-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/sharm-el-sheikh/nabq-bay/sharm-grand-plaza-resort-19136.html?-od-2024-09-14,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Warszawa",
-            "likes": 667
+            "likes": 776,
+            "star_rating": "5"
         },
         {
             "page": 3,
@@ -68,7 +72,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/tunezja/al-jazira-beach-teren-hotelu-plaza-1023751832-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/tunezja/djerba/al-jazira-beach-488278.html?-od-2024-09-19,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Poznań, Warszawa(+1)Wrocław",
-            "likes": 256
+            "likes": 1317,
+            "star_rating": "3.5"
         },
         {
             "page": 3,
@@ -82,7 +87,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/tunezja/nour-palace-teren-hotelu-basen-1634662162-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/tunezja/al-mahdijja/mahdia/nour-palace-805526.html?-od-2024-08-29,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Gdańsk, Warszawa, Poznań(+2)Wrocław, Lublin",
-            "likes": 1049
+            "likes": 1320,
+            "star_rating": "5"
         },
         {
             "page": 3,
@@ -96,7 +102,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/hawaii-caesar-palace-aqua-park-ex-mirage-aqua-park-basen-zjezdzalnia-825899062-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hawaii-caesar-palace-aqua-park-ex-mirage-aqua-park-805528.html?-od-2024-09-05,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Gdańsk, Wrocław(+1)Lublin",
-            "likes": 1062
+            "likes": 1343,
+            "star_rating": "4"
         },
         {
             "page": 3,
@@ -110,7 +117,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/three-corners-happy-life-beach-resort-basen-1502800419-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/marsa-el-alam/three-corners-happy-life-beach-resort-822345.html?-od-2024-09-14,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Warszawa",
-            "likes": 420
+            "likes": 654,
+            "star_rating": "4"
         },
         {
             "page": 3,
@@ -124,7 +132,68 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/bulgaria/casablanca-obiekt-basen-1479315390-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/bulgaria/sloneczny-brzeg/obzor/casablanca-526421.html?-od-2024-09-06,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Wrocław",
-            "likes": 171
+            "likes": 540,
+            "star_rating": "4"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-2990zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Delphin El Habib",
+            "location": "Tunezja / Monastir",
+            "date": "12.09.2024- 19.09.2024",
+            "formated_date": "2024-09-12",
+            "price_per_person": "2251",
+            "lowest_price_per_person": "2251",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/tunezja/delphin-el-habib-basen-11737299-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/tunezja/monastir/monastir/delphin-el-habib-448686.html?-od-2024-09-12,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Katowice, Poznań, Warszawa(+3)Wrocław, Lublin, Gdańsk",
+            "likes": 1020,
+            "star_rating": "4"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-2990zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Leonardo",
+            "location": "Albania / Riwiera Albańska / Durres",
+            "date": "20.09.2024- 27.09.2024",
+            "formated_date": "2024-09-20",
+            "price_per_person": "2219",
+            "lowest_price_per_person": "2219",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/albania/leonardo-basen-829306212-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/albania/riwiera-albanska/durres/leonardo-680319.html?-od-2024-09-20,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Katowice, Warszawa(+1)Zielona Góra",
+            "likes": 1449,
+            "star_rating": "4"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-2990zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Marabout",
+            "location": "Tunezja / Sousse",
+            "date": "05.09.2024- 12.09.2024",
+            "formated_date": "2024-09-05",
+            "price_per_person": "1849",
+            "lowest_price_per_person": "1849",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/tunezja/marabout-basen-aquapark-362833484-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/tunezja/sousse/sousse/marabout-805263.html?-od-2024-09-05,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Gdańsk, Warszawa, Katowice(+3)Wrocław, Poznań, Lublin",
+            "likes": 450,
+            "star_rating": "3.5"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-2990zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Amphoras Beach (ex. Shores)",
+            "location": "Egipt / Sharm El Sheikh / Ras Um El Sid",
+            "date": "31.08.2024- 07.09.2024",
+            "formated_date": "2024-08-31",
+            "price_per_person": "2742",
+            "lowest_price_per_person": "2742",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/amphoras-beach-ex-shores-teren-hotelu-basen-804112014-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/sharm-el-sheikh/ras-um-el-sid/amphoras-beach-ex-shores-279746.html?-od-2024-08-31,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Katowice, Warszawa",
+            "likes": 953,
+            "star_rating": "4"
         }
     ]
 }
