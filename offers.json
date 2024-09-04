@@ -12,7 +12,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/stella-beach-okurcalar-basen-183931128-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/alanya/stella-beach-okurcalar-1607.html?-od-2024-10-03,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Zielona Góra, Gdańsk, Wrocław(+7)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Warszawa",
-            "likes": 1023,
+            "likes": 2319,
             "star_rating": "5"
         },
         {
@@ -27,7 +27,52 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/hedef-kleopatra-golden-sun-obiekt-budynek-glowny-1611652790-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/alanya/hedef-kleopatra-golden-sun-832382.html?-od-2024-09-05,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Kraków, Katowice, Warszawa(+3)Wrocław, Poznań, Gdańsk",
-            "likes": 973,
+            "likes": 1925,
+            "star_rating": "4"
+        },
+        {
+            "page": 3,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Green Life (Kestel)",
+            "location": "Turcja / Riwiera Turecka / Kestel",
+            "date": "06.09.2024- 13.09.2024",
+            "formated_date": "2024-09-06",
+            "price_per_person": "1986",
+            "lowest_price_per_person": "1986",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/green-life-kestel-obiekt-budynek-glowny-teren-hotelu-1019627275-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/kestel/green-life-kestel-483654.html?-od-2024-09-06,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Zielona Góra, Gdańsk, Wrocław(+7)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Warszawa",
+            "likes": 1173,
+            "star_rating": "3"
+        },
+        {
+            "page": 3,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Royal Lagoons Aqua (ex. Premium Blue)",
+            "location": "Egipt / Hurghada",
+            "date": "24.09.2024- 01.10.2024",
+            "formated_date": "2024-09-24",
+            "price_per_person": "2381",
+            "lowest_price_per_person": "2381",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/royal-lagoons-aqua-ex-premium-blue-1469832781-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/royal-lagoons-aqua-ex-premium-blue-450319.html?-od-2024-09-24,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Gdańsk, Wrocław, Katowice(+3)Poznań, Warszawa, Zielona Góra",
+            "likes": 2393,
+            "star_rating": "5"
+        },
+        {
+            "page": 3,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Albatros Jungle Aqua Park",
+            "location": "Egipt / Hurghada",
+            "date": "19.09.2024- 26.09.2024",
+            "formated_date": "2024-09-19",
+            "price_per_person": "3129",
+            "lowest_price_per_person": "3129",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/albatros-jungle-aqua-park-aquapark-1504239948-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/albatros-jungle-aqua-park-804146.html?-od-2024-09-19,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Warszawa, Katowice, Gdańsk(+3)Wrocław, Poznań, Lublin",
+            "likes": 1982,
             "star_rating": "4"
         },
         {
@@ -42,7 +87,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/el-karma-aqua-beach-resort-ex-nubia-aqua-beach-resort-basen-aquapark-zjezdzalnia-1501702102-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/el-karma-aqua-beach-resort-ex-nubia-aqua-beach-resort-230270.html?-od-2024-09-24,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Gdańsk, Wrocław, Katowice(+3)Poznań, Warszawa, Zielona Góra",
-            "likes": 2321,
+            "likes": 1283,
             "star_rating": "5"
         },
         {
@@ -57,7 +102,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/greenwood-kemer-resort-ex-sherwood-greenwood-resort-teren-hotelu-basen-1502917824-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/goynuk/greenwood-kemer-resort-ex-sherwood-greenwood-resort-432914.html?-od-2024-10-03,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Zielona Góra, Gdańsk, Wrocław(+7)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Warszawa",
-            "likes": 2394,
+            "likes": 805,
             "star_rating": "5"
         },
         {
@@ -72,23 +117,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/amwaj-blue-beach-resort-spa-ex-pickalbatros-beach-club-basen-8465516-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/soma-bay/amwaj-blue-beach-resort-spa-ex-pickalbatros-beach-club-1486.html?-od-2024-09-24,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Gdańsk, Wrocław, Katowice(+3)Poznań, Warszawa, Zielona Góra",
-            "likes": 1928,
+            "likes": 255,
             "star_rating": "4"
-        },
-        {
-            "page": 5,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-5,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
-            "hotel": "Sentido Mamlouk Palace Resort & Spa (ex Sunrise)",
-            "location": "Egipt / Hurghada",
-            "date": "12.09.2024- 19.09.2024",
-            "formated_date": "2024-09-12",
-            "price_per_person": "2870",
-            "lowest_price_per_person": "2870",
-            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/sentido-mamlouk-palace-resort-spa-ex-sunrise-teren-hotelu-basen-1488320449-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/sentido-mamlouk-palace-resort-spa-ex-sunrise-448766.html?-od-2024-09-12,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Katowice, Poznań, Warszawa(+2)Wrocław, Lublin",
-            "likes": 1328,
-            "star_rating": "5"
         },
         {
             "page": 5,
@@ -102,7 +132,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/sunrise-select-garden-beach-resort-spa-obiekt-aquapark-826755644-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/sunrise-select-garden-beach-resort-spa-448891.html?-od-2024-09-09,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Poznań, Warszawa(+2)Wrocław, Lublin",
-            "likes": 155,
+            "likes": 1821,
             "star_rating": "5"
         },
         {
@@ -117,7 +147,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/hiszpania/htop-royal-sun-santa-susana-basen-809868069-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/hiszpania/costa-brava/santa-susanna/htop-royal-sun-santa-susana-814399.html?-od-2024-10-04,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Warszawa, Kraków(+3)Gdańsk, Wrocław, Poznań",
-            "likes": 1379,
+            "likes": 784,
             "star_rating": "4"
         },
         {
@@ -132,7 +162,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/tunezja/al-jazira-beach-teren-hotelu-plaza-1023751832-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/tunezja/djerba/al-jazira-beach-488278.html?-od-2024-10-03,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Warszawa, Wrocław",
-            "likes": 605,
+            "likes": 2218,
             "star_rating": "3.5"
         },
         {
@@ -140,14 +170,14 @@
             "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-6,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
             "hotel": "Sunshine (Kestel)",
             "location": "Turcja / Riwiera Turecka / Kestel",
-            "date": "06.09.2024- 13.09.2024",
-            "formated_date": "2024-09-06",
-            "price_per_person": "1502",
-            "lowest_price_per_person": "1502",
+            "date": "05.09.2024- 12.09.2024",
+            "formated_date": "2024-09-05",
+            "price_per_person": "1460",
+            "lowest_price_per_person": "1460",
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/sunshine-kestel-obiekt-basen-1492263670-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/kestel/sunshine-kestel-2077.html?-od-2024-09-06,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/kestel/sunshine-kestel-2077.html?-od-2024-09-05,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Zielona Góra, Gdańsk, Wrocław(+7)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Warszawa",
-            "likes": 1629,
+            "likes": 2495,
             "star_rating": "4"
         },
         {
@@ -162,8 +192,23 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/justiniano-club-alanya-basen-1557738983-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/okurcalar/justiniano-club-alanya-229608.html?-od-2024-09-06,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Zielona Góra, Gdańsk, Wrocław(+7)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Warszawa",
-            "likes": 1069,
+            "likes": 1065,
             "star_rating": "4"
+        },
+        {
+            "page": 6,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-6,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
+            "hotel": "Holiday Park Resort (Okurcalar)",
+            "location": "Turcja / Riwiera Turecka / Okurcalar",
+            "date": "08.09.2024- 15.09.2024",
+            "formated_date": "2024-09-08",
+            "price_per_person": "2512",
+            "lowest_price_per_person": "2512",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/holiday-park-resort-okurcalar-teren-hotelu-basen-816635098-295-267.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/okurcalar/holiday-park-resort-okurcalar-1601.html?-od-2024-09-08,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Zielona Góra, Gdańsk, Wrocław(+7)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Warszawa",
+            "likes": 2204,
+            "star_rating": "5"
         },
         {
             "page": 7,
@@ -176,8 +221,8 @@
             "lowest_price_per_person": "2389",
             "image_url": "https://i.wakacje.pl/no-index/hotel/tunezja/nour-palace-teren-hotelu-basen-1634662162-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/tunezja/al-mahdijja/mahdia/nour-palace-805526.html?-od-2024-09-29,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Warszawa, Wrocław, Gdańsk(+3)Poznań, Katowice, Lublin",
-            "likes": 2309,
+            "airport": "Warszawa, Wrocław, Gdańsk(+2)Poznań, Lublin",
+            "likes": 2286,
             "star_rating": "5"
         },
         {
@@ -192,7 +237,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/grecja/sunrise-pefkos-obiekt-teren-hotelu-basen-plaza-video-wakacjepl-942319302-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/grecja/rodos/pefkos/sunrise-pefkos-476759.html?-od-2024-10-04,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Warszawa, Katowice, Poznań(+3)Gdańsk, Wrocław, Kraków",
-            "likes": 1810,
+            "likes": 1213,
             "star_rating": "4"
         },
         {
@@ -202,12 +247,12 @@
             "location": "Egipt / Hurghada",
             "date": "05.09.2024- 12.09.2024",
             "formated_date": "2024-09-05",
-            "price_per_person": "1909",
-            "lowest_price_per_person": "1909",
+            "price_per_person": "1509",
+            "lowest_price_per_person": "1509",
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/hawaii-caesar-palace-aqua-park-ex-mirage-aqua-park-basen-zjezdzalnia-825899062-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hawaii-caesar-palace-aqua-park-ex-mirage-aqua-park-805528.html?-od-2024-09-05,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Warszawa, Katowice, Wrocław(+2)Poznań, Lublin",
-            "likes": 787,
+            "airport": "Warszawa, Poznań, Wrocław(+3)Gdańsk, Katowice, Lublin",
+            "likes": 891,
             "star_rating": "4"
         },
         {
@@ -215,14 +260,14 @@
             "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-7,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
             "hotel": "Sunis Elita Beach Resort (ex Asteria Elita)",
             "location": "Turcja / Riwiera Turecka / Side",
-            "date": "04.09.2024- 11.09.2024",
-            "formated_date": "2024-09-04",
-            "price_per_person": "3352",
-            "lowest_price_per_person": "3352",
+            "date": "06.09.2024- 13.09.2024",
+            "formated_date": "2024-09-06",
+            "price_per_person": "3311",
+            "lowest_price_per_person": "3311",
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/sunis-elita-beach-resort-ex-asteria-elita-basen-zjezdzalnia-826633202-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/side/sunis-elita-beach-resort-ex-asteria-elita-359523.html?-od-2024-09-04,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/side/sunis-elita-beach-resort-ex-asteria-elita-359523.html?-od-2024-09-06,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Zielona Góra, Gdańsk, Wrocław(+7)Bydgoszcz, Katowice, Łódź, Lublin, Kraków, Poznań, Warszawa",
-            "likes": 2064,
+            "likes": 2014,
             "star_rating": "5"
         },
         {
@@ -237,22 +282,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/grecja/sun-palace-faliraki-basen-plaza-1502919267-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/grecja/rodos/faliraki/sun-palace-faliraki-472861.html?-od-2024-10-04,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Warszawa, Katowice, Poznań(+6)Gdańsk, Wrocław, Kraków, Łódź, Lublin, Bydgoszcz",
-            "likes": 1603,
-            "star_rating": "4"
-        },
-        {
-            "page": 7,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-7,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
-            "hotel": "King Tut Resort",
-            "location": "Egipt / Hurghada",
-            "date": "01.10.2024- 08.10.2024",
-            "formated_date": "2024-10-01",
-            "price_per_person": "2434",
-            "lowest_price_per_person": "2434",
-            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/king-tut-resort-teren-hotelu-basen-844593251-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/king-tut-resort-3526.html?-od-2024-10-01,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Gdańsk, Wrocław, Katowice(+3)Poznań, Warszawa, Zielona Góra",
-            "likes": 1497,
+            "likes": 981,
             "star_rating": "4"
         },
         {
@@ -267,7 +297,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/grecja/utopia-resort-spa-teren-hotelu-basen-wakacjepl-819073010-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/grecja/kefalonia/katelios/utopia-resort-spa-472900.html?-od-2024-09-26,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Warszawa, Katowice",
-            "likes": 141,
+            "likes": 2008,
             "star_rating": "4"
         },
         {
@@ -282,7 +312,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/hiszpania/htop-summer-sun-ex-sant-jordi-basen-809865233-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/hiszpania/costa-brava/santa-susanna/htop-summer-sun-ex-sant-jordi-360783.html?-od-2024-09-11,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Wrocław, Katowice",
-            "likes": 142,
+            "likes": 1295,
             "star_rating": "3"
         },
         {
@@ -297,7 +327,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/tunezja/delphin-el-habib-basen-11737299-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/tunezja/monastir/monastir/delphin-el-habib-448686.html?-od-2024-09-26,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Poznań, Warszawa(+3)Wrocław, Lublin, Gdańsk",
-            "likes": 1600,
+            "likes": 1547,
             "star_rating": "4"
         },
         {
@@ -312,7 +342,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/albania/leonardo-basen-829306212-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/albania/riwiera-albanska/durres/leonardo-680319.html?-od-2024-09-13,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Warszawa(+1)Zielona Góra",
-            "likes": 146,
+            "likes": 1662,
             "star_rating": "4"
         },
         {
@@ -320,14 +350,14 @@
             "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-9,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
             "hotel": "Marabout",
             "location": "Tunezja / Sousse",
-            "date": "09.09.2024- 16.09.2024",
-            "formated_date": "2024-09-09",
-            "price_per_person": "1749",
-            "lowest_price_per_person": "1749",
+            "date": "05.09.2024- 12.09.2024",
+            "formated_date": "2024-09-05",
+            "price_per_person": "1349",
+            "lowest_price_per_person": "1349",
             "image_url": "https://i.wakacje.pl/no-index/hotel/tunezja/marabout-basen-aquapark-362833484-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/tunezja/sousse/sousse/marabout-805263.html?-od-2024-09-09,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Warszawa, Gdańsk, Wrocław(+3)Katowice, Poznań, Lublin",
-            "likes": 1490,
+            "offer_url": "https://www.wakacje.pl/oferty/tunezja/sousse/sousse/marabout-805263.html?-od-2024-09-05,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
+            "airport": "Warszawa, Wrocław, Gdańsk(+2)Poznań, Lublin",
+            "likes": 2361,
             "star_rating": "3.5"
         },
         {
@@ -342,7 +372,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/laur-experience-elegance-teren-hotelu-basen-1274790402-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/turcja/wybrzeze-egejskie/didim/laur-experience-elegance-211281.html?-od-2024-09-05,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Gdańsk, Wrocław, Katowice(+4)Łódź, Kraków, Poznań, Warszawa",
-            "likes": 2233,
+            "likes": 1372,
             "star_rating": "5"
         },
         {
@@ -357,7 +387,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/red-sea-the-grand-obiekt-basen-wakacjepl-929570009-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/red-sea-the-grand-480448.html?-od-2024-10-03,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Lublin, Poznań(+1)Warszawa",
-            "likes": 2253,
+            "likes": 424,
             "star_rating": "4"
         },
         {
@@ -372,7 +402,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/giftun-azur-beach-resort-teren-hotelu-1610222804-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/giftun-azur-beach-resort-290213.html?-od-2024-10-01,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Gdańsk, Wrocław, Katowice(+3)Poznań, Warszawa, Zielona Góra",
-            "likes": 904,
+            "likes": 168,
             "star_rating": "3"
         },
         {
@@ -387,23 +417,8 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/grecja/poseidon-palace-obiekt-plaza-1503102152-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/grecja/riwiera-olimpijska/leptokaria/poseidon-palace-472929.html?-od-2024-09-28,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Warszawa, Katowice, Poznań(+2)Gdańsk, Wrocław",
-            "likes": 1682,
+            "likes": 1153,
             "star_rating": "4.5"
-        },
-        {
-            "page": 10,
-            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-10,7-dni,do-3590zl,samolotem,all-inclusive,z-bydgoszczy,z-gdanska,z-katowic,z-krakowa,z-lublina,z-lodzi,z-poznania,ze-szczecina,z-warszawy,z-wroclawia,z-zielonej-gory,za-osobe",
-            "hotel": "Jaz Aquamarine (ex. Iberotel Aquamarine)",
-            "location": "Egipt / Hurghada",
-            "date": "05.09.2024- 12.09.2024",
-            "formated_date": "2024-09-05",
-            "price_per_person": "3209",
-            "lowest_price_per_person": "3209",
-            "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/jaz-aquamarine-ex-iberotel-aquamarine-basen-zjezdzalnia-826761969-295-267.jpg",
-            "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/jaz-aquamarine-ex-iberotel-aquamarine-805615.html?-od-2024-09-05,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
-            "airport": "Poznań, Warszawa, Wrocław(+3)Katowice, Gdańsk, Lublin",
-            "likes": 1437,
-            "star_rating": "5"
         },
         {
             "page": 10,
@@ -417,7 +432,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/turcja/merve-sun-and-spa-obiekt-budynek-glowny-basen-826417796-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/turcja/riwiera-turecka/kumkoy/merve-sun-and-spa-759301.html?-od-2024-09-24,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Kraków, Katowice, Warszawa(+3)Wrocław, Poznań, Gdańsk",
-            "likes": 814,
+            "likes": 1941,
             "star_rating": "4"
         },
         {
@@ -432,7 +447,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/stella-di-mare-beach-resort-spa-ex-stella-makadi-resort-basen-826297256-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/makadi-bay/stella-di-mare-beach-resort-spa-ex-stella-makadi-resort-447902.html?-od-2024-09-26,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Gdańsk, Katowice, Warszawa(+2)Wrocław, Poznań",
-            "likes": 911,
+            "likes": 232,
             "star_rating": "5"
         },
         {
@@ -447,7 +462,7 @@
             "image_url": "https://i.wakacje.pl/no-index/hotel/egipt/long-beach-resort-ex-hilton-long-beach-obiekt-1424863848-295-267.jpg",
             "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/long-beach-resort-ex-hilton-long-beach-805611.html?-od-2024-09-26,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656",
             "airport": "Katowice, Warszawa, Wrocław(+2)Poznań, Lublin",
-            "likes": 2343,
+            "likes": 2065,
             "star_rating": "4"
         }
     ]
