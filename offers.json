@@ -1,3 +1,52 @@
 {
-    "offers": []
+    "offers": [
+        {
+            "page": 2,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-2,7-dni,do-4990zl,samolotem,3-gwiazdkowe,ocena-8,za-osobe",
+            "hotel": "Albatros Sea World Resort Marsa Alam",
+            "location": "Egipt / Marsa El Alam / Al-Kusajr",
+            "date": "08.01.2026- 15.01.2026",
+            "formated_date": "2026-01-08",
+            "price_per_person": "2522",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/albatros-sea-world-resort-marsa-alam-basen-930476251-343-228.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/marsa-el-alam/al-kusajr/albatros-sea-world-resort-marsa-alam-795035.html?-od-2026-01-08,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656&chan=code5",
+            "short_url": "https://is.gd/VUdtg2",
+            "airport": "Katowice, Warszawa",
+            "likes": 920,
+            "star_rating": "pięciogwiazdkowy",
+            "food": "All Inclusive"
+        },
+        {
+            "page": 3,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-3,7-dni,do-4990zl,samolotem,3-gwiazdkowe,ocena-8,za-osobe",
+            "hotel": "Ali Baba Palace",
+            "location": "Egipt / Hurghada",
+            "date": "09.01.2026- 16.01.2026",
+            "formated_date": "2026-01-09",
+            "price_per_person": "2295",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/ali-baba-palace-teren-hotelu-basen-825076813-343-228.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/ali-baba-palace-757108.html?-od-2026-01-09,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656&chan=code5",
+            "short_url": "https://is.gd/y3UWFU",
+            "airport": "Katowice, Warszawa, Poznań",
+            "likes": 1337,
+            "star_rating": "czterogwiazdkowy",
+            "food": "All Inclusive"
+        },
+        {
+            "page": 4,
+            "wakacjeplURL": "https://www.wakacje.pl/lastminute/?str-4,7-dni,do-4990zl,samolotem,3-gwiazdkowe,ocena-8,za-osobe",
+            "hotel": "Calimera Blend Paradise",
+            "location": "Egipt / Hurghada",
+            "date": "11.01.2026- 19.01.2026",
+            "formated_date": "2026-01-11",
+            "price_per_person": "2229",
+            "image_url": "https://i.wakacje.pl/no-index/zdjecie/id/20001403110-343-228.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/hurghada/hurghada/calimera-blend-paradise-733939.html?-od-2026-01-11,7-dni,all-inclusive&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656&chan=code5",
+            "short_url": "https://is.gd/1sEeth",
+            "airport": "Gdańsk, Poznań, Warszawa",
+            "likes": 1928,
+            "star_rating": "pięciogwiazdkowy",
+            "food": "All Inclusive"
+        }
+    ]
 }
