@@ -1,1 +1,20 @@
-
+{
+    "offers": [
+        {
+            "page": 2,
+            "wakacjeplURL": "https://www.wakacje.pl/wczasy/?firstminute/?str-2,7-dni,do-3990zl,samolotem,3-gwiazdkowe,ocena-8,za-osobe",
+            "hotel": "Albatros Sea World Resort Marsa Alam",
+            "location": "Egipt / Marsa El Alam / Al-Kusajr",
+            "date": "13.01.2026- 20.01.2026",
+            "formated_date": "2026-01-13",
+            "price_per_person": "5398zł",
+            "image_url": "https://i.wakacje.pl/no-index/hotel/albatros-sea-world-resort-marsa-alam-basen-930476251-343-228.jpg",
+            "offer_url": "https://www.wakacje.pl/oferty/egipt/marsa-el-alam/al-kusajr/albatros-sea-world-resort-marsa-alam-499201.html?od-2026-01-13,7-dni,all-inclusive,z-krakowa,srstorebox?od-2026-01-13,7-dni&utm_source=travellead&utm_medium=cps&utm_campaign=1656-vacccation.com&a_aid=1656&chan=code5",
+            "short_url": "https://is.gd/taI6CQ",
+            "airport": "Katowice, Warszawa, Rzeszów",
+            "likes": 968,
+            "star_rating": "pięciogwiazdkowy",
+            "food": "All Inclusive"
+        }
+    ]
+}
